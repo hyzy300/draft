@@ -1,4 +1,4 @@
-# draft
+# homepage
 
 ## Project setup
 ```
