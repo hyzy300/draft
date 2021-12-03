@@ -1,5 +1,6 @@
 <template>
   <Homepage msg="Welcome to the homepage"/>
+  <!-- <character /> -->
   <div>
     
   </div>
@@ -7,11 +8,13 @@
 
 <script>
 import Homepage from '@/views/homepage.vue'
+import Character from '@/views/character.vue'
 
 export default {
   name: 'App',
   components: {
-    Homepage
+    Homepage,
+    Character
   }
 }
 </script>
